@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 978184795
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 20ae8e9c5c7b169049bf2407ad15b03c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 67d6efb628c61f1fb389f87a4f735e9f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c65fd0fb7f24948b4b3ac4e420592495, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/liver_prefab.prefab
+Dependencies: []

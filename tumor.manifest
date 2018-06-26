@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3850675212
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5d5e466f230af9fff571abeafbbe1dd7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ebde513b69b3afbbfb39b0df54be8aff
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54d090ded93ca423682af19d4f313231, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/tumor_prefab.prefab
+Dependencies: []

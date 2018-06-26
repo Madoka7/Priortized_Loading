@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 637601629
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2572baf1c8cb29a85d7768a79fc87b42
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2c2d6dd687f8e1c49e34ec25d1868a18
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 155c0ac58b3c1478d867abba9072234d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1c0541d6f2b2c4882849be1809c56119, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9912ff68ce10e4b32ad1fda76bf56c68, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c65fd0fb7f24948b4b3ac4e420592495, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54d090ded93ca423682af19d4f313231, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/liver_prefab.prefab
+- Assets/blood_prefab.prefab
+- Assets/tumor_prefab.prefab
+- Assets/bone_prefab.prefab
+- Assets/skin_prefab.prefab
+Dependencies: []

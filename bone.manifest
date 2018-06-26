@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1523686241
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cff2a01c2da8400d7f069cf1c3db3937
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc898ea5107fb11e1750a2c9ce53e3c0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1c0541d6f2b2c4882849be1809c56119, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/bone_prefab.prefab
+Dependencies: []
